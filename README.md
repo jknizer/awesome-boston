@@ -1,5 +1,5 @@
 # awesome-boston
-A curated list of resources that might keep you in love with the greater Boston area of Massachusetts (and places nearby)
+A curated list of resources that might keep you in love with the greater Boston area of Massachusetts (and places nearby). They took from us search, they took from us DMOZ, they gave us all AI slop - we reclaim our information, this time with version control and Markdown.
 
 Land Acknowledgment
 The greater Boston metro region where we work and play exists on land stolen from the first and ongoing indigineous custodians, specifically the Massachusee (Massachusett) & Wôpanâak (Wampanoag) First Nations Peoples; with particular recognition for the Patuxet (Pawtucket), Neponset, Naumkeag, Pocasset & Pokanoket tribes, who have traveled, lived, worked, and cared for their unceded lands in and around Boston for tens of thousands of years. I write this in hoping you'll join me in acknowledging this community, their elders both past and present, as well as future generations. This acknowledgement demonstrates a commitment to beginning the process of working to dismantle the ongoing legacies of settler colonialism. 
@@ -64,6 +64,7 @@ Summer
 * July - Boston Pops 4th July Spectacular https://www.bso.org/boston-pops-fireworks-spectacular
 * August - Boston North End - St. Anthony's Feast https://www.stanthonysfeast.com
 * September - Somerville What the Fluff? Fetival https://www.flufffestival.com
+* September - Maine - MOFGA Common Ground Country Fair https://www.mofga.org/The-Fair/
 
 Autumn
 * Cider Donut Map by Alex Schwartz linktr.ee/ciderdonuteur
@@ -75,21 +76,30 @@ Autumn
 Higher Ed
 * https://en.wikipedia.org/wiki/List_of_colleges_and_universities_in_metropolitan_Boston
 
-Geeky museums
-* MIT Museum https://mitmuseum.mit.edu
-* Museum of Science mos.org
-* Children’s Museum https://bostonchildrensmuseum.org
-* Harvard Museum of Natural History https://www.hmnh.harvard.edu
-* Ether Dome https://en.wikipedia.org/wiki/Ether_Dome
-* Alexander Graham Bell reproduction https://www.bostonglobe.com/business/2018/08/30/this-boston-museum-off-limits-almost-everyone/sAm8s3xvNl2zg4L6jsiyXO/story.html
+Museums
+* Cambridge - MIT Museum https://mitmuseum.mit.edu
+* Boston - Museum of Science mos.org
+* Boston - Children’s Museum https://bostonchildrensmuseum.org
+* Cambridge - Harvard Museum of Natural History https://www.hmnh.harvard.edu
+* Boston - Ether Dome https://en.wikipedia.org/wiki/Ether_Dome
+* Boston - Alexander Graham Bell reproduction https://www.bostonglobe.com/business/2018/08/30/this-boston-museum-off-limits-almost-everyone/sAm8s3xvNl2zg4L6jsiyXO/story.html
+* Boston - Institute for Contemporary Art https://www.icaboston.org
+* Boston - West End Museum https://thewestendmuseum.org
+* Boston - Gibson House Museum https://www.thegibsonhouse.org
+* Boston - Nichols House Museum https://www.nicholshousemuseum.org
+* Boston - Tea Party Ship https://www.bostonteapartyship.com
+* Boston - Museum of African American History https://www.maah.org
+* Boston, Charlestown - USS Constitution
 
 Geeky/tech etc
-* Byteshop.io in JP https://techhub.social/@mishakhill/114214310138891794
+* Byteshop.io (vintage tech/repair) - Jamaica Plain https://byteshop.io
 * MBTA/transit gifts - Cambridge https://mbtagifts.com
-* Micro Center Cambridge https://www.microcenter.com/site/stores/cambridge.aspx
+* Micro Center - Cambridge https://www.microcenter.com/site/stores/cambridge.aspx
 * Metropolitan Waterworks https://waterworksmuseum.org
 * Harvard Bridge Smoot Measurements https://www.atlasobscura.com/places/harvard-bridge-smoot-measurements
 * Pi bench https://www.atlasobscura.com/places/charles-river-esplanade-pi-plaque
+* Sunday Flea at MIT/Swapfest https://w1mx.mit.edu/flea-at-mit/
+* Bit Bar - Salem https://bit.bar
 
 Books
 * Somerville, Davis - Narrative Bookshop https://www.narrativebookshop.com
@@ -102,8 +112,8 @@ Books
 * Brookline - Brookline Booksmith https://brooklinebooksmith.com
 * Boston, Newbury St - Trident https://www.tridentbookscafe.com/
   
-Comic/ephemera
-* Somerville, Davis - Comicazi
+Comics & pop culture ephemera
+* Somerville, Davis - Comicazi (toys of your youth)
 * Somerville, Union - Hub Comics
 * Cambridge, Harvard - Million Year Picnic
 * Cambridge, Kendall https://comicopia.com
@@ -136,17 +146,18 @@ Meta - other compilation projects
 * https://www.atlasobscura.com/things-to-do/boston-massachusetts
 
 Bike
-*  https://bostoncyclistsunion.org/bcu-labs-launches-bike-stress-map
-*  BUCK
-*  Boston Bike Events calendar https://bostonbikeevents.net
-*  Somerville Bike Kitchen
-*  Craigslist https://boston.craigslist.org/search/bia
-*  https://bluebikes.com
-*  Critical Mass Boston http://bostoncriticalmass.org
+* Map visualizing stressful biking routes https://bostoncyclistsunion.org/bcu-labs-launches-bike-stress-map
+* BUCK Cycle Kitchen https://www.bu.edu/transportation/bicycling/buck/
+* Boston Bike Events calendar https://bostonbikeevents.net
+* Somerville Bike Kitchen https://somervillebikekitchen.org
+* Craigslist https://boston.craigslist.org/search/bia
+* Bike Rental https://bluebikes.com
+* Critical Mass Boston http://bostoncriticalmass.org
+* Bikes Not Bombs https://bikesnotbombs.org
 
 Languages
-* Portuguese Speakers https://maps-inc.org
-* French Speakers https://frenchlibrary.org
+* Portuguese https://maps-inc.org
+* French https://frenchlibrary.org
 * Japanese Society https://www.japansocietyboston.org
 * Spanish https://www.bostonspanish.org
 
@@ -157,23 +168,46 @@ Public Transit
 Make stuff
 *  Allston - Artisan's Asylum https://www.artisansasylum.com
 *  Cambridge - NOCA Glass School https://www.nocaglassschool.com
-*  Cambridge Public Library - The Hive
-*  Somerville - High School Makerspace
+*  Cambridge Public Library - The Hive https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations/mainlibrary/thehive
+*  Somerville - Fabville, High School Makerspace (seasonal) https://fabville.org/
 *  Somerville - Public Library, West Branch - makerspace
 *  Somerville - https://www.mudflat.org
 
-Date Nite Ideas
-*  https://www.baystatearchers.com/?page_id=74
+Iconic Date Ideas
+* Archery https://www.baystatearchers.com/?page_id=74
+* North End, Pastries https://modernpastry.com
+* Somerville, Chocolate Factory tour https://www.tazachocolate.com/pages/take-a-tour
+* Somerville, Candlepin bowling & pizza https://americanflatbread.com/locations/somerville-ma/
+* Boston, Swan Boats https://swanboats.com
+
+Daytrips worth traveling
+* Peabody Essex Museum
+* Providence, RI
+* Cape Cod National Seashore
+* Provincetown/Truro MA
+* Kittery/Freeport Maine
+* Midcoast Maine (Belfast, Camden, Bucksport)
+* Portsmouth, NH
+* MassMoCA / Amherst
+
+Long way from Boston but worth it
+* Bar Harbor Maine/Acadia National Park
+* Montreal
+* NYC
+* Burlington VT 
 
 Events/calendars
 *  Solon's Boston Shows site: https://bostonshows.org
-*  WUMB Calendar https://wumb.org/calendar/
+*  WUMB (UMass) shows https://wumb.org/calendar/
+*  BGN Punk Shows https://www.bostongroupienews.com/BostonPunkRockConcertReport.html
 *  Boston Bike Events bostonbikeevents.net
 *  Boston Improv Calendar https://linktr.ee/bostonimprovcalendar
 *  Pleasure Pie (sex positive monthly newsletter) https://www.pleasurepie.org
 *  Kikipaedia (LGBTQIA+ scene) https://kikipaedia.com/city/boston-ma 
 *  My #BostonWeekend threads on Mastodon https://toot.boston/knizer
 *  Boston Compass Happenings calendar https://www.bostoncompassnewspaper.com/happs
+*  WMBR (MIT) Pop/Rock/Punk shows https://wmbr.org/cr.html
+*  Cambridge Day Events Ahead https://www.cambridgeday.com/events-ahead/
 
 Subcultures
 * SCA (Scociety Creative Anachronism) https://carolingia.eastkingdom.org/
@@ -188,6 +222,7 @@ Subcultures
 * Polyamory (ethical non-monogamy) http://polyboston.org
 * Burners/Firefly (art) https://www.bostonburners.org
 * Archers https://www.baystatearchers.com/?page_id=74
+* Free Fitness https://november-project.com/boston/
   
 Comprehensive Lore
 * 1605 Europeans show up, unfortunately https://en.wikipedia.org/wiki/Massachusett
@@ -206,6 +241,7 @@ Comprehensive Lore
 * 1921 Sacco and Vanzetti Trial https://en.wikipedia.org/wiki/Sacco_and_Vanzetti
 * 1958 Club Passim https://en.wikipedia.org/wiki/Club_Passim
 * 1960s Boston Strangler https://en.wikipedia.org/wiki/Boston_Strangler
+* 1990 Heist at the Izzy https://en.wikipedia.org/wiki/Isabella_Stewart_Gardner_Museum_theft
 * 1991 Big Dig Start https://en.wikipedia.org/wiki/Big_Dig
 * 2004 Curse Reversed https://en.wikipedia.org/wiki/Curse_of_the_Bambino
 * 2007 Big Dig End https://en.wikipedia.org/wiki/Big_Dig
@@ -218,3 +254,4 @@ Misc gems
 * Mapparium https://www.christianscience.com/find-us/visit-the-mother-church/visit-the-christian-science-plaza/how-do-you-see-the-world-experience
 * MIT Pirate certificate https://physicaleducationandwellness.mit.edu/about/pirate-certificate/
 * A People’s History of the New Boston - https://www.umasspress.com/9781625340764/a-peoples-history-of-the-new-boston/
+
