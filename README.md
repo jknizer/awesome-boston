@@ -179,22 +179,40 @@ Iconic Date Ideas
 * Somerville, Chocolate Factory tour https://www.tazachocolate.com/pages/take-a-tour
 * Somerville, Candlepin bowling & pizza https://americanflatbread.com/locations/somerville-ma/
 * Boston, Swan Boats https://swanboats.com
+* Somerville, Throw Axes https://urbanaxes.com/locations/boston
+* Mendon, Drive In Movie (seasonal) https://www.mendondrivein.com/
+* South Boston, Castle Island (not actually an island) 
+* Boston Harbor Islands (definitely islands, watch your ferry timing)
+* Hikes (Blue Hills, Middlesex Fells)
+* Indoor Rock Climbing (MetroRock Everett, Central Rock Gym, Rock Spot, Bouldering Project)
+* Boston, Afternoon Tea at the BPL https://www.thecateredaffair.com/courtyard-tea-room/
+* Commuter Rail discount weekends to explore somewhere new
+* Movies (Brattle, Kendall, Regent, Somerville, Alamo Drafthouse, Chunky's, Coolidge Corner, West Newton, Harvard Film Archive, MoS or NEA IMAX, Mendon Drive-In)
+* Comedy Clubs/Improv shows
+* Drag scene
 
-Daytrips worth traveling
+Worthwhile Daytrips
 * Peabody Essex Museum
-* Providence, RI
+* Providence, RI (RISD, Brown, Athenaeum, Nature Lab)
 * Cape Cod National Seashore
 * Provincetown/Truro MA
-* Kittery/Freeport Maine
+* Kittery/Freeport Maine (giant LL Bean & Outlets)
 * Midcoast Maine (Belfast, Camden, Bucksport)
 * Portsmouth, NH
 * MassMoCA / Amherst
+* Canobie Lake Amusement Park (seasonal) https://www.canobie.com
+* Worcester (Public art, Palladium, The Firehouse)
+* Lincoln, deCordova Sculpture Park and Museum
+* Brockton, Fuller Craft Museum
 
-Long way from Boston but worth it
+Worthwhile driveable long weekends
 * Bar Harbor Maine/Acadia National Park
 * Montreal
 * NYC
 * Burlington VT 
+* Campobello Island/Bay of Fundy (Whales!)
+* Halifax NS
+* Fredericton NB
 
 Events/calendars
 *  Solon's Boston Shows site: https://bostonshows.org
@@ -254,4 +272,12 @@ Misc gems
 * Mapparium https://www.christianscience.com/find-us/visit-the-mother-church/visit-the-christian-science-plaza/how-do-you-see-the-world-experience
 * MIT Pirate certificate https://physicaleducationandwellness.mit.edu/about/pirate-certificate/
 * A People’s History of the New Boston - https://www.umasspress.com/9781625340764/a-peoples-history-of-the-new-boston/
+* Yoga/Meditation retrat https://kripalu.org/
 
+Skip it
+* Encore Casio
+* Codzilla
+* Isabella Stewart Gardner Museum
+* Faneuil Hall/Quincy Market
+* King Richard's Faire
+* Any beach during black fly season
