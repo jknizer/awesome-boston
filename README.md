@@ -1,8 +1,10 @@
 # awesome-boston
-A curated list of resources that might keep you in love with the greater Boston area of Massachusetts (and places nearby). They took from us search, they took from us DMOZ, they gave us all AI slop - we reclaim our information, this time with version control and Markdown.
+A curated list of resources that might keep you in love with the greater Boston area of Massachusetts (and places nearby). Tourist-specific resources abound, and the best are linked here. Rather, the goal is one place to track the evolving hidden gems of the region for someone who lives here. 
 
 Land Acknowledgment
 The greater Boston metro region where we work and play exists on land stolen from the first and ongoing indigineous custodians, specifically the Massachusee (Massachusett) & Wôpanâak (Wampanoag) First Nations Peoples; with particular recognition for the Patuxet (Pawtucket), Neponset, Naumkeag, Pocasset & Pokanoket tribes, who have traveled, lived, worked, and cared for their unceded lands in and around Boston for tens of thousands of years. I write this in hoping you'll join me in acknowledging this community, their elders both past and present, as well as future generations. This acknowledgement demonstrates a commitment to beginning the process of working to dismantle the ongoing legacies of settler colonialism. 
+
+
 
 Indigenous resources
 * Massachusetts Center for Native American Awareness https://www.mcnaa.org
@@ -18,22 +20,23 @@ Indigenous resources
 * Native Land Conservancy - Donate: https://www.nativelandconservancy.org/donate
 
 Tourism core
-*  Aquarium https://www.neaq.org
-*  Freedom Trail https://www.thefreedomtrail.org
-*  Museum of Science https://www.mos.org
-*  Duck Boats https://bostonducktours.com
-*  Baseball - Red Sox/Fenway Park https://www.mlb.com/redsox
-*  Football - Patriots https://www.patriots.com
-*  Hockey - Bruins https://www.nhl.com/bruins/
-*  Basketball - Celtics https://www.nba.com/celtics/
-*  MFA https://www.mfa.org
-*  Public Transit https://www.mbta.com/guides/boston-visitor-guide
-*  Airport https://www.massport.com/logan-airport/at-the-airport/flylogan-app
-*  Train/Bus https://www.amtrak.com/stations/bos
-*  BCEC Convention Center https://www.signatureboston.com/bcec/
-*  Hynes Convention Center https://www.signatureboston.com/hynes/
-*  https://en.wikivoyage.org/wiki/Boston
-*  https://wikitravel.org/en/Boston
+* Aquarium https://www.neaq.org
+* Freedom Trail https://www.thefreedomtrail.org
+* Museum of Science https://www.mos.org
+* Duck Boats https://bostonducktours.com
+* Baseball - Red Sox/Fenway Park https://www.mlb.com/redsox
+* Football - Patriots https://www.patriots.com
+* Hockey - Bruins https://www.nhl.com/bruins/
+* Basketball - Celtics https://www.nba.com/celtics/
+* MFA https://www.mfa.org
+* Public Transit https://www.mbta.com/guides/boston-visitor-guide
+* Airport https://www.massport.com/logan-airport/at-the-airport/flylogan-app
+* Train/Bus https://www.amtrak.com/stations/bos
+* BCEC Convention Center https://www.signatureboston.com/bcec/
+* Hynes Convention Center https://www.signatureboston.com/hynes/
+* https://en.wikivoyage.org/wiki/Boston
+* https://wikitravel.org/en/Boston
+* https://en.wikipedia.org/wiki/List_of_tourist_attractions_in_Boston
 
 Winter
 * Metro Boston Sledding Map - https://communitykangaroo.com/boston-sledding/
@@ -47,7 +50,7 @@ Spring
 * April - 26.TRUE Marathon https://www.instagram.com/26.truemarathon
 * April - Red Sox Home Opener https://www.mlb.com/redsox/schedule/
 * May - Club Passim Campfire festival (folk) https://www.passim.org/live-music/club-passim/campfire-festival/
-* May-June Porchfests porchfest.info
+* May-June Porchfests https://porchfest.info
 * May-July-Sep Brimfield Shows (Antiques etc) https://www.brimfieldexchange.com
 * June - Boston Calling https://www.bostoncalling.com
 * June - Boston Pride https://www.bostonprideforthepeople.org
@@ -59,8 +62,9 @@ Summer
 * Boston - Sail/kayak on the Charles https://www.community-boating.org/
 * Various - Canoe/Kayak/SUP https://paddleboston.com
 * Martha's Vinyard https://www.mvy.com
+* Boston outdoor dining options https://www.boston.com/food/restaurants/2025/05/01/where-to-eat-outside-in-greater-boston-2025/
 * July - Somerville ArtBeat https://somervilleartscouncil.org/artbeat/
-* July - Newport Folk Festiavl newportfolk.org
+* July - Newport Folk Festiavl https://newportfolk.org
 * July - Boston Pops 4th July Spectacular https://www.bso.org/boston-pops-fireworks-spectacular
 * August - Boston North End - St. Anthony's Feast https://www.stanthonysfeast.com
 * September - Somerville What the Fluff? Fetival https://www.flufffestival.com
@@ -69,8 +73,8 @@ Summer
 Autumn
 * Cider Donut Map by Alex Schwartz linktr.ee/ciderdonuteur
 * September - The Big E https://www.thebige.com
-* October - Somerville Honk https://honkfest.org
-* October - Cambridge Head of the Charles Regatta https://www.hocr.org
+* October - Somerville Honk (Activist street bands) https://honkfest.org
+* October - Cambridge Head of the Charles Regatta (rowing) https://www.hocr.org
 * October - Salem, MA Halloween https://www.hauntedhappenings.org
 
 Higher Ed
@@ -91,6 +95,10 @@ Museums
 * Boston - Museum of African American History https://www.maah.org
 * Boston, Charlestown - USS Constitution
 
+Parks/Hikes/Nature
+* Somerville tree map https://www.somervillema.gov/departments/ospcd/psuf/urban-forestry
+
+
 Geeky/tech etc
 * Byteshop.io (vintage tech/repair) - Jamaica Plain https://byteshop.io
 * MBTA/transit gifts - Cambridge https://mbtagifts.com
@@ -101,11 +109,16 @@ Geeky/tech etc
 * Sunday Flea at MIT/Swapfest https://w1mx.mit.edu/flea-at-mit/
 * Bit Bar - Salem https://bit.bar
 
+Art
+* Boston public art map https://experience.arcgis.com/experience/c4772479d6a640b295f617f80928ed0f
+* Boston mural map https://www.boston.gov/departments/arts-and-culture/boston-mural-map
+* Cambridge public art map https://www.cambridgema.gov/arts/publicart/publicartmap
+
 Books
 * Somerville, Davis - Narrative Bookshop https://www.narrativebookshop.com
 * Somerville, East - All She Wrote Books https://www.allshewrotebooks.com/
 * Cambridge, Harvard - Lovestruck https://lovestruckbooks.com
-* Cambridge, Harvard - Harvard Bookstore, https://www.harvard.com/
+* Cambridge, Harvard - Harvard Bookstore https://www.harvard.com/
 * Beacon Hill Boston Athenaeum www.bostonathenaeum.org
 * Jamaica Plain - Lucy Parsons Infoshop https://www.lucyparsonscenter.org/bookshop
 * Downtown - Brattle Book Shop https://www.brattlebookshop.com/
@@ -123,31 +136,31 @@ Comics & pop culture ephemera
 * Worcester - That's Entertainment https://thatse.com
 
 Run
-*  Hashers https://www.bostonhash.com
-*  City on the Hills Trail https://www.bostontrails.org/cityonthehillstrail
-*  Routes https://greatruns.com/location/boston-massachusetts/
-*  Somerville Road Runners https://www.srr.org
-*  Running clubs https://www.bostonmagazine.com/health/run-clubs-in-boston/
-*  Running groups https://www.boston.com/community/readers-say/2025/04/17/the-best-boston-run-groups-2025/
+* Hashers https://www.bostonhash.com
+* City on the Hills Trail https://www.bostontrails.org/cityonthehillstrail
+* Routes https://greatruns.com/location/boston-massachusetts/
+* Somerville Road Runners https://www.srr.org
+* Running clubs https://www.bostonmagazine.com/health/run-clubs-in-boston/
+* Running groups https://www.boston.com/community/readers-say/2025/04/17/the-best-boston-run-groups-2025/
 
 Gaming
-*  Cambridge - DX Arcade
-*  Somerville - Pop's Pinball
-*  Pandemonium Books and Games
-*  Dave and Busters
-*  Mar - Pax East https://east.paxsite.com
-*  May - Anime Boston https://www.animeboston.com
+* Cambridge - DX Arcade
+* Somerville - Pop's Pinball
+* Pandemonium Books and Games
+* Dave and Busters
+* Mar - Pax East https://east.paxsite.com
+* May - Anime Boston https://www.animeboston.com
 
 Meta - other compilation projects
 * Somerville attractions map by Eric Haines - SomeSights https://bit.ly/somesights 
 * Greater boston public access bathroom map - https://bathroomaccess.com
 * https://en.wikipedia.org/wiki/Culture_in_Boston
 * https://www.meetup.com/find/us--ma--boston/
-* https://www.atlasobscura.com/things-to-do/boston-massachusetts
+* https://www.atlasobscura.com/things-to-do/boston-massachusetts 
 
 Bike
 * Map visualizing stressful biking routes https://bostoncyclistsunion.org/bcu-labs-launches-bike-stress-map
-* BUCK Cycle Kitchen https://www.bu.edu/transportation/bicycling/buck/
+* BUCK - BU'sCycle Kitchen https://www.bu.edu/transportation/bicycling/buck/
 * Boston Bike Events calendar https://bostonbikeevents.net
 * Somerville Bike Kitchen https://somervillebikekitchen.org
 * Craigslist https://boston.craigslist.org/search/bia
@@ -162,16 +175,16 @@ Languages
 * Spanish https://www.bostonspanish.org
 
 Public Transit
-*  MBTA https://www.mbta.com
-*  MBTA Go app https://www.mbta.com/goapp
+* MBTA https://www.mbta.com
+* MBTA Go app https://www.mbta.com/goapp
 
 Make stuff
-*  Allston - Artisan's Asylum https://www.artisansasylum.com
-*  Cambridge - NOCA Glass School https://www.nocaglassschool.com
-*  Cambridge Public Library - The Hive https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations/mainlibrary/thehive
-*  Somerville - Fabville, High School Makerspace (seasonal) https://fabville.org/
-*  Somerville - Public Library, West Branch - makerspace
-*  Somerville - https://www.mudflat.org
+* Allston - Artisan's Asylum https://www.artisansasylum.com
+* Cambridge - NOCA Glass School https://www.nocaglassschool.com
+* Cambridge Public Library - The Hive https://www.cambridgema.gov/Departments/cambridgepubliclibrary/Locations/mainlibrary/thehive
+* Somerville - Fabville, High School Makerspace (seasonal) https://fabville.org/
+* Somerville - Public Library, West Branch - makerspace
+* Somerville - https://www.mudflat.org
 
 Iconic Date Ideas
 * Archery https://www.baystatearchers.com/?page_id=74
@@ -215,17 +228,20 @@ Worthwhile driveable long weekends
 * Fredericton NB
 
 Events/calendars
-*  Solon's Boston Shows site: https://bostonshows.org
-*  WUMB (UMass) shows https://wumb.org/calendar/
-*  BGN Punk Shows https://www.bostongroupienews.com/BostonPunkRockConcertReport.html
-*  Boston Bike Events bostonbikeevents.net
-*  Boston Improv Calendar https://linktr.ee/bostonimprovcalendar
-*  Pleasure Pie (sex positive monthly newsletter) https://www.pleasurepie.org
-*  Kikipaedia (LGBTQIA+ scene) https://kikipaedia.com/city/boston-ma 
-*  My #BostonWeekend threads on Mastodon https://toot.boston/knizer
-*  Boston Compass Happenings calendar https://www.bostoncompassnewspaper.com/happs
-*  WMBR (MIT) Pop/Rock/Punk shows https://wmbr.org/cr.html
-*  Cambridge Day Events Ahead https://www.cambridgeday.com/events-ahead/
+* Solon's Boston Shows site: https://bostonshows.org
+* WUMB (UMass) shows https://wumb.org/calendar/
+* BGN Punk Shows https://www.bostongroupienews.com/BostonPunkRockConcertReport.html
+* Boston Bike Events https://	bostonbikeevents.net
+* Boston Improv Calendar https://linktr.ee/bostonimprovcalendar
+* Pleasure Pie (sex positive monthly newsletter) https://www.pleasurepie.org
+* Kikipaedia (LGBTQIA+ scene) https://kikipaedia.com/city/boston-ma 
+* Knizer's #BostonWeekend threads on Mastodon https://toot.boston/knizer
+* Boston Compass Happenings calendar https://www.bostoncompassnewspaper.com/happs
+* WMBR (MIT) Pop/Rock/Punk shows https://wmbr.org/cr.html
+* Cambridge Day Events Ahead https://www.cambridgeday.com/events-ahead/
+* Kid focused events calendar https://communitykangaroo.com
+* Boston Central (kid focused, lots of recurring events) https://www.bostoncentral.com/
+* This Week Boston newsletter aka r/boston weekend thread https://thisweekboston.beehiiv.com/subscribe
 
 Subcultures
 * SCA (Scociety Creative Anachronism) https://carolingia.eastkingdom.org/
@@ -265,8 +281,9 @@ Comprehensive Lore
 * 2007 Big Dig End https://en.wikipedia.org/wiki/Big_Dig
 * 2007 Mooninite panic https://en.wikipedia.org/wiki/2007_Boston_Mooninite_panic
 * 2013 Marathon Bombing/Manhunt https://en.wikipedia.org/wiki/Boston_Marathon_bombing
+* 2015 Fish Guy https://www.esquire.com/sports/videos/a38190/boston-fishing-guy-video/
 * 2023 Cop Slide https://en.wikipedia.org/wiki/Cop_slide
-* 2025 Awesome Boston file created by knizer
+* 2025 Awesome-Boston file initiated by knizer
 
 Misc gems
 * Mapparium https://www.christianscience.com/find-us/visit-the-mother-church/visit-the-christian-science-plaza/how-do-you-see-the-world-experience
