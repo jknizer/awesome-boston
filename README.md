@@ -63,6 +63,7 @@ Summer
 * Various - Canoe/Kayak/SUP https://paddleboston.com
 * Martha's Vinyard https://www.mvy.com
 * Boston outdoor dining options https://www.boston.com/food/restaurants/2025/05/01/where-to-eat-outside-in-greater-boston-2025/
+* July 3 - Bike on Storrow Drive Day https://www.youtube.com/watch?v=x1mb4o7SGto
 * July - Somerville ArtBeat https://somervilleartscouncil.org/artbeat/
 * July - Newport Folk Festiavl https://newportfolk.org
 * July - Boston Pops 4th July Spectacular https://www.bso.org/boston-pops-fireworks-spectacular
@@ -227,6 +228,9 @@ Worthwhile driveable long weekends
 * Halifax NS
 * Fredericton NB
 
+Walks and Hikes
+* Somerville Native Plants loop https://www.greenopensomerville.org/tour
+
 Events/calendars
 * Solon's Boston Shows site: https://bostonshows.org
 * WUMB (UMass) shows https://wumb.org/calendar/
@@ -252,6 +256,7 @@ Subcultures
 * Filkers (nerd music) https://www.massfilc.org
 * Swing Dancing (dance) https://swingcityboston.com/index.shtml
 * Morris Dancing (dance) https://morrisdancing.fandom.com/wiki/Morris_teams_in_United_States#Massachusetts
+* Blues Dancing (dance) https://bluesunionboston.com/boston-blues-calendar/
 * Mystery Hunt (puzzles) https://en.wikipedia.org/wiki/MIT_Mystery_Hunt
 * Polyamory (ethical non-monogamy) http://polyboston.org
 * Burners/Firefly (art) https://www.bostonburners.org
@@ -290,6 +295,7 @@ Misc gems
 * MIT Pirate certificate https://physicaleducationandwellness.mit.edu/about/pirate-certificate/
 * A People’s History of the New Boston - https://www.umasspress.com/9781625340764/a-peoples-history-of-the-new-boston/
 * Yoga/Meditation retrat https://kripalu.org/
+* Birthday party venues (kids, mostly) https://communitykangaroo.com/cambridge/birthdays/
 
 Skip it
 * Encore Casio
