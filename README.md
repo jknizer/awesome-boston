@@ -158,6 +158,7 @@ Meta - other compilation projects
 * https://en.wikipedia.org/wiki/Culture_in_Boston
 * https://www.meetup.com/find/us--ma--boston/
 * https://www.atlasobscura.com/things-to-do/boston-massachusetts 
+* Hoodmaps https://hoodmaps.com/boston-neighborhood-map
 
 Bike
 * Map visualizing stressful biking routes https://bostoncyclistsunion.org/bcu-labs-launches-bike-stress-map
@@ -218,6 +219,7 @@ Worthwhile Daytrips
 * Worcester (Public art, Palladium, The Firehouse)
 * Lincoln, deCordova Sculpture Park and Museum
 * Brockton, Fuller Craft Museum
+* Newburyport (itinerary: https://better.boston/@scottsthoughts/114794874938994803)
 
 Worthwhile driveable long weekends
 * Bar Harbor Maine/Acadia National Park
